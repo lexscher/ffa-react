@@ -11,7 +11,7 @@ This fitness app enables athletes to connect & share their workout routines.
 - SASS/SCSS
 - JavaScript
 - React
-git stat
+
 ### **Back-End:**
 
 - Ruby on Rails
